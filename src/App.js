@@ -154,9 +154,9 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark"
-                href="https://github.com/Vishesh-Pandey/v-music"
+                href="https://www.youtube.com/results?search_query=new+songs+playlist+2024"
               >
-                <i className="bi bi-github mx-2"></i>Github
+                <i className="bi bi-music-note-list mx-5"></i>Latest playlist
               </a>
             </div>
           </div>
